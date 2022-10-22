@@ -1,11 +1,3 @@
-# IPicker
-
-# Author - D3adpool2K
-
-# github - https://github.com/Deadpool2000
-
-
-
 import json
 import urllib.request
 import webbrowser
@@ -44,7 +36,7 @@ try:
              
      IP Address locator
 
-"""+R+""">>"""+Y+"""----"""+CY+""" Author - i-Turki """+Y+"""----"""+R+"""<<""")
+"""+R+""">>"""+Y+"""----"""+CY+""" Alpha - i-Turki """+Y+"""----"""+R+"""<<""")
         
     def m3():
         try:
